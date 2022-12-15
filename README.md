@@ -3,7 +3,7 @@ Use a CNN to classify dog and cat images
 
 Dataset Description:
 
-The dataset I used was from Kaggle, and it contains 25,000 images of cats and dogs (12,500 of each type).  Training and Test data were both provided for modeling purposes.  
+The dataset I used was from Kaggle (you can download the data here: https://www.kaggle.com/competitions/dogs-vs-cats/data), and it contains 25,000 images of cats and dogs (12,500 of each type).  Training and Test data were both provided for modeling purposes.  
 Web services are frequently protected with a test that's supposed to be easy for people to solve but difficult for computers. These challenges are often called CAPTCHA or HIPs, which are used to reduce email and spam, and prevent attacks on passwords.  Asirra is a HIP that works by asking users to identify photographs of cats and dogs.  
 Asirra partners with Petfinder.com, and they provided Microsoft Research with over three million images of cats and dogs that were manually classified by people from animal shelters across the United States.  These data were provided to challenge users to train and test a machine learning classification model to identify vulnerabilities in CAPTCHAs and HIPs. 
 P
